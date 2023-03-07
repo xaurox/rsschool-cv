@@ -21,3 +21,11 @@ I have a little experience with this technologies:
 - HTML
 - CSS
 - JS
+
+## Code example
+
+```
+function greet_function () {
+  console.log("hello world")
+}
+```
