@@ -29,3 +29,16 @@ function greet_function () {
   console.log("hello world")
 }
 ```
+
+## Work experience
+
+What a pity, I don't have any work experience! Hope to fix it very soon!
+
+## Education
+
+- 11 grades of school
+- 2 years at BSU
+
+## English
+
+My English level is A1.
